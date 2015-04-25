@@ -1,0 +1,3 @@
+[submodule "JavaScript-Snake"]
+	path = JavaScript-Snake
+	url = https://github.com/peteflorence/JavaScript-Snake.git
